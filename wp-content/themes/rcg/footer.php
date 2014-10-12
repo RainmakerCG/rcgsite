@@ -12,9 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'rcg' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'rcg' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'rcg' ), 'rcg', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
+			<p>Copyright &copy; 2014 Rainmaker Consulting Group, LLC. All Rights Reserved.
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
